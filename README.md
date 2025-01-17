@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashraawat&label=Profile%20views&color=0e75b6&style=flat" alt="aakashraawat" /> </p>
 
-- 🌱 I’m currently learning **ROS/2 , Unity3D and Machine Learning Foundation**
+- 🌱 I’m currently learning **Machine learning and Motion Planning**
 
 - 👯 I’m looking to collaborate on **Robotics Projects**
 
